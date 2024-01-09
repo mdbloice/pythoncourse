@@ -4,6 +4,15 @@
 
 Materials for the "Python in Machine Learning"  PhD course offered at the Medical University Graz
 
+## Installing Python & Jupyter
+
+To inst
+
+
+If you cannot install Python locally for whatever reason, you can use Google Colab as an alternative. See [https://colab.research.google.com](https://colab.research.google.com)
+
+Note the [modul17.com](https://modul17.com) is not available outside of the seminar class times.
+
 # License
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
