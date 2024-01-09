@@ -2,11 +2,11 @@
 
 # Python for Machine Learning and Data Science
 
-Materials for the "Python in Machine Learning"  PhD course offered at the Medical University Graz.
+Materials for the "Python in Machine Learning" PhD course offered at the Medical University Graz.
 
 ## Installing Python & Jupyter
 
-To install Python, follow the instructions on [https://python.org](python.org) - note that the instructions vary by operating system. 
+To install Python, follow the instructions on [python.org](https://python.org) - note that the instructions vary by operating system. 
 
 Oncee you have installed Python, you can install Jupyter, and all the requirements for this course, by first downloading the `requirements.txt` file from this repository and running:
 
@@ -24,15 +24,13 @@ jupyter lab
 
 If a browser window does not open automatically, you will need to copy the URL printed to the console and open this in a browser. Typically this URL is [http://localhost:8888](http://localhost:8888)
 
-### Virtual Environments
-
-It is good practice to create a virtual environment for every project that you create, if you wish to do so, see the Python `venv` command, detailed instructions can be found here: [https://docs.python.org/3/library/venv.html](https://docs.python.org/3/library/venv.html)
+**Note**: it is good practice to create a virtual environment for every project that you create, if you wish to do so, see the Python `venv` command, detailed instructions can be found here: [https://docs.python.org/3/library/venv.html](https://docs.python.org/3/library/venv.html) - however, for the purposes of this course it is not a requirement that you use a virtual environment.
 
 ## Online Alternatives
 
 If you cannot install Python locally for whatever reason, you can use Google Colab as an alternative. See [https://colab.research.google.com](https://colab.research.google.com) - you will need a Google account to use this service.
 
-Note that the [https://modul17.com](modul17.com) server does not run outside of the seminar class times.
+Note that the [modul17.com](https://modul17.com) server does not run outside of the seminar class times.
 
 # License
 
