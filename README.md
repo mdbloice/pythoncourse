@@ -16,6 +16,12 @@ pip install -r requirements.txt
 
 from the command line. This will install Jupyter and all other requirements that are listed in the `requirements.txt` file.
 
+Alternatively, you can install the requirements by copying and pasting the following in to the command line:
+
+```
+pip install ipython jupyter numpy pandas scikit-learn xgboost
+```
+
 Once you have installed Jupyter, you can run the following to start a local Jupyter server which will open in the default browser:
 
 ```sh
