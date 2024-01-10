@@ -7,3 +7,5 @@ xgboost
 matplotlib
 biopython
 scipy
+pillow
+python-opencv
