@@ -19,7 +19,7 @@ from the command line. This will install Jupyter and all other requirements that
 Alternatively, you can install the requirements by copying and pasting the following in to the command line:
 
 ```
-pip install ipython jupyter numpy pandas scikit-learn xgboost matplotlib
+pip install ipython jupyter numpy pandas scikit-learn xgboost matplotlib biopython scipy
 ```
 
 Once you have installed Jupyter, you can run the following to start a local Jupyter server which will open in the default browser:
