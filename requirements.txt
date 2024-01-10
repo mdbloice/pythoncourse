@@ -8,4 +8,4 @@ matplotlib
 biopython
 scipy
 pillow
-python-opencv
+opencv-python
