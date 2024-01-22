@@ -22,6 +22,8 @@ Alternatively, you can install the requirements by copying and pasting the follo
 pip install ipython jupyter numpy pandas scikit-learn xgboost matplotlib biopython scipy pillow opencv-python seaborn graphviz
 ```
 
+*Note*: you may need to install the Graphviz binaries in addition to the Python version.
+
 Once you have installed Jupyter, you can run the following to start a local Jupyter server which will open in the default browser:
 
 ```sh
