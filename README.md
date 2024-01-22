@@ -40,6 +40,30 @@ If you cannot install Python locally for whatever reason, you can use Google Col
 
 Note that the [modul17.com](https://modul17.com) server does not run outside of the seminar class times.
 
+# Course Contents
+
+The following is a list of the contents of the course, with links to the relevant notebooks where applicable. 
+
+- What is Machine Learning?
+- Terminology 
+  - Fitting a line to some data
+- NumPy
+- Sci-Kit Learn
+- Machine Learning
+  - Classification
+  - Regression
+  - Supervised vs. Unsupervised
+  - Clustering
+- Algorithms
+  - Linear Regression
+  - Logistic Regression
+  - Decision Trees and Random Forests
+  - Support Vector Machines
+- Image Analysis
+  - PyTorch
+  - MedMNIST
+- Bioinformatics
+
 # License
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
